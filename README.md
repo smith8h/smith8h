@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/1638998934010.png" style="width: 60%;"/>
+  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150133.png" style="width: 60%;"/>
 </p>
 
 ### Hi there 👋
@@ -26,6 +26,6 @@ You can **choose what you want to donate**, all donations are awesome!<br><br>
 <br><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_133516.png" style="width: 40%;"/>
+  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150053.png" style="width: 40%;"/>
   <br><b>With :heart:</b>
 </p>
