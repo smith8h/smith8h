@@ -5,7 +5,8 @@
 ### Hi there 👋
 Welcome to my profile, I'm **Hussein Shakir (Smith)**
 > - I'm Android Apps Developer and UI/UX Designer<br>
-> - My skills: ***Java, Python***
+> - My skills:<br>
+> ![Languages](https://skillicons.dev/icons?i=java,python)
 > - I do Coding for a hobby, I just ❤ programming.
 <br><br>
 
