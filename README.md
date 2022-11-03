@@ -10,12 +10,22 @@ Welcome to my profile, I'm **Hussein Shakir (Smith)**
 > - I do Coding for a hobby, I just ❤ programming.
 <br><br>
 
+### Profile
+[![Smith's github trophy](https://github-profile-trophy.vercel.app/?username=smith8h&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+</br>
+
+[![Smith's github stats](https://github-readme-stats.vercel.app/api?username=smith8h&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smith8h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 
 <p align="center"> 
   <b>Visitors count</b><br>
   <img src="https://profile-counter.glitch.me/smith8h/count.svg" />
 </p>
 
+<br>
 
 ### Donations :heart:
 > **These projects needs you!** If you would like to support projects' further development, the creator of all these projects or the continuous maintenance of projects **feel free to donate**. Your donation is highly appreciated. Thank you!
