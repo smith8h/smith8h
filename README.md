@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150133.png" style="width: 60%;"/>
+  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150133.png" style="width: 40%;"/>
 </p>
 
 ## Hi there 👋
 Welcome to my profile, I'm **Hussein Shakir (Smith)**
 > - I'm Android Apps Developer and UI/UX Designer<br>
 > - My skills:<br>
-> ![Languages](https://skillicons.dev/icons?i=java,gradle,python,git)
+> ![Languages](https://skillicons.dev/icons?i=java,kotlin,python,gradle,git)
 > - I do Coding for a hobby, I just ❤ programming.
 <br/>
 
@@ -44,6 +44,6 @@ You can **choose what you want to donate**, all donations are awesome!</br>
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150053.png" style="width: 38%;"/>
+  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150053.png" style="width: 28%;"/>
   <br><b>With :heart:</b>
 </p>
