@@ -1,53 +1,61 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150133.png" style="width: 35%;"/>
+  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150133.png" style="width: 35%;" alt="My Logo"/>
 </p>
 
 ### Welcome to Hussein Shakir (Smith)'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### About Me:
+## About Me:
 - 💻 I'm a Software Developer working as a freelance wizard.
 - 💬 Ask me about my experience with Kotlin, Java or Android development.
 - ⚡ I can work on your project or create your dream project easily.
 - I do Coding for a hobby, I just ❤ programming.<br/>
 
-### My Skills:
+## My Skills:
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,java,kotlin,py,materialui,gradle,firebase,git,github,replit,flask,bots,regex,md,html,stackoverflow&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,gradle&perline=12"  alt="My Languages"/>
 </p>
-<br/>
 
-### Follow Me
+### IDEs and Tools
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,gradle,git,github,replit,stackoverflow&perline=12"  alt="My IDE's and Tools"/>
+</p>
+
+### Other Skills
+<p>
+<img src="https://skillicons.dev/icons?i=materialui,firebase,flask,bots,regex,md,html&perline=12"  alt="My Skills"/>
+</p>
+
+## Follow Me
 <p>
   <a href="https://t.me/smithdev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="My Telegram Channel"/>
   </a>
   <a href="https://instagram.com/smith8h" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"/>
   </a>
   <a href="https://youtube.com/@smith8h" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="My Youtube Channel"/>
   </a>
 </p>
 <br/>
 
-### Profile
+## Profile
 [![Smith's github trophy](https://github-profile-trophy.vercel.app/?username=smith8h&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
 [![Smith's github stats](https://github-readme-stats.vercel.app/api?username=smith8h&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smith8h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=smith8h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-<p> 
-  <b>Profile Views:</b><br/>
-  <img src="https://profile-counter.glitch.me/smith8h/count.svg" />
-</p>
+### Profile Views
+  <img src="https://profile-counter.glitch.me/smith8h/count.svg"  alt="My Profile Views"/>
 <br/>
 
-### Donations :heart:
-> **These projects needs you!** If you would like to support projects' further development, the creator of all these projects or the continuous maintenance of projects **feel free to donate**. Your donation is highly appreciated. Thank you!
+## Donations :heart:
+> **These projects need you!** If you would like to support projects' further development, the creator of all these projects or the continuous maintenance of projects **feel free to donate**. Your donation is highly appreciated. Thank you!
 <br/>
 
 You can **choose what you want to donate**, all donations are awesome!</br>
@@ -57,6 +65,6 @@ You can **choose what you want to donate**, all donations are awesome!</br>
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150053.png" style="width: 28%;"/>
+  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150053.png" style="width: 28%;" alt="My Signing"/>
   <br><b>With :heart:</b>
 </p>
