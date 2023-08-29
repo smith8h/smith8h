@@ -10,20 +10,22 @@
 - ⚡ I can work on your project or create your dream project easily.
 - I do Coding for a hobby, I just ❤ programming.<br/>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/smith8h)
+
 ## My Skills:
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,gradle&perline=12"  alt="My Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,json,xml,groovy&perline=12"  alt="My Languages"/>
 </p>
 
 ### IDEs and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,gradle,git,github,replit,stackoverflow&perline=12"  alt="My IDE's and Tools"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,flutter,vscode,gradle,github,replit,stackoverflow&perline=12"  alt="My IDE's and Tools"/>
 </p>
 
 ### Other Skills
 <p>
-<img src="https://skillicons.dev/icons?i=materialui,firebase,flask,bots,regex,md,html&perline=12"  alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,html&perline=12"  alt="My Skills"/>
 </p>
 
 ## Follow Me
