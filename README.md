@@ -43,6 +43,8 @@
 <br/>
 
 ## Profile
+<img src="https://myreadme.vercel.app/api/embed/smith8h?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My Stats" />
+
 [![Smith's github trophy](https://github-profile-trophy.vercel.app/?username=smith8h&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
