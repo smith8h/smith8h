@@ -64,8 +64,12 @@
 
 You can **choose what you want to donate**, all donations are awesome!</br>
 <br/>
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/husseinshakir)
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/HusseinShakir)
+[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/PayPal.svg"
+      alt='Donate with PayPal'
+      height="80"/>](https://www.paypal.me/husseinshakir)
+[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/BMC.svg"
+      alt='Donate with PayPal'
+      height="80"/>](https://www.buymeacoffee.com/HusseinShakir)
 <br/>
 
 <p align="center">
