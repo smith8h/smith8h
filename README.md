@@ -46,13 +46,8 @@
 <img src="https://myreadme.vercel.app/api/embed/smith8h?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My Stats" />
 
 [![Smith's github trophy](https://github-profile-trophy.vercel.app/?username=smith8h&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
-
-[![Smith's github stats](https://github-readme-stats.vercel.app/api?username=smith8h&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 
 [![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=smith8h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 
 ### Profile Views
   <img src="https://profile-counter.glitch.me/smith8h/count.svg"  alt="My Profile Views"/>
@@ -64,10 +59,10 @@
 
 You can **choose what you want to donate**, all donations are awesome!</br>
 <br/>
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/PayPal.svg"
+[<img src="https://raw.githubusercontent.com/smith8h/smith8h/7e74b5cf5502aef174981d7f6d02a448ff2b0965/PayPal.svg"
       alt='Donate with PayPal'
       height="80"/>](https://www.paypal.me/husseinshakir)
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/BMC.svg"
+[<img src="https://raw.githubusercontent.com/smith8h/smith8h/7e74b5cf5502aef174981d7f6d02a448ff2b0965/BMC.svg"
       alt='Donate with PayPal'
       height="80"/>](https://www.buymeacoffee.com/HusseinShakir)
 <br/>
