@@ -15,7 +15,7 @@
 ## My Skills:
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,mysql,json,xml,groovy&perline=8"  alt="My Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,mysql,sqlite,json,xml,groovy&perline=12"  alt="My Languages"/>
 </p>
 
 ### IDEs and Tools
