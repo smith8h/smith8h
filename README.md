@@ -15,12 +15,12 @@
 ## My Skills:
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,mysql,sqlite,json,xml,groovy&perline=12"  alt="My Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,mysql,sqlite&perline=12"  alt="My Languages"/>
 </p>
 
 ### IDEs and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,flutter,vscode,ai,gradle,github,replit,stackoverflow&perline=12"  alt="My IDE's and Tools"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,vscode,idea,gradle,github,ai,replit,stackoverflow&perline=12"  alt="My IDE's and Tools"/>
 </p>
 
 ### Other Skills
