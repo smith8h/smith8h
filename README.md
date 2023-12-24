@@ -5,10 +5,10 @@
 ### Welcome to Hussein Shakir (Smith)'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## About Me:
-- 💻 I'm a Software Developer working as a freelance wizard.
-- 💬 Ask me about my experience with Kotlin, Java or Android development.
+- 💻 I'm a Mobile App Developer working as a freelance wizard.
+- 💬 Ask me about my experience with Kotlin, Java, Dart, Flutter or Android development.
 - ⚡ I can work on your project or create your dream project easily.
-- I do Coding for a hobby, I just ❤ programming.<br/>
+- ❤️ I do Coding for a hobby, I just ❤️ programming.<br/>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/smith8h)
 
