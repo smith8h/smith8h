@@ -10,11 +10,11 @@
 - ⚡ I can work on your project or create your dream project easily.
 - ❤️ I do Coding for a hobby, I just ❤️ programming.<br/>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/smith8h)
+
 ## Organizations
 - [PureTik Team](https://github.com/PureTik)
 - [Dote Pro Team](https://github.com/Dote-Team)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/smith8h)
 
 ## My Skills:
 ### Programming Languages
