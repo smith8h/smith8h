@@ -19,17 +19,17 @@
 ## My Skills:
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,react,js,python,mysql,sqlite&perline=12"  alt="My Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,react,js,python,mysql,sqlite&perline=8"  alt="My Languages"/>
 </p>
 
 ### IDEs and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,vscode,idea,gradle,github,ai,replit,stackoverflow&perline=12"  alt="My IDE's and Tools"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,vscode,idea,gradle,github,ai,replit,stackoverflow&perline=8"  alt="My IDE's and Tools"/>
 </p>
 
 ### Other Skills
 <p>
-<img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,githubactions,html,css&perline=12"  alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,githubactions,html,css&perline=8"  alt="My Skills"/>
 </p>
 
 ## Follow Me
