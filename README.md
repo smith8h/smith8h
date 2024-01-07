@@ -19,17 +19,23 @@
 ## My Skills:
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,react,js,python,mysql,sqlite&perline=8"  alt="My Languages"/>
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,react,js,python,mysql,sqlite&perline=8"  alt="My Languages"/>
+  </a>
 </p>
 
 ### IDEs and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,vscode,idea,gradle,github,ai,replit,stackoverflow&perline=8"  alt="My IDE's and Tools"/>
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,vscode,idea,gradle,github,ai,replit,stackoverflow&perline=8"  alt="My IDE's and Tools"/>
+  </a>
 </p>
 
 ### Other Skills
 <p>
-<img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,githubactions,html,css&perline=8"  alt="My Skills"/>
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,githubactions,html,css&perline=8"  alt="My Skills"/>
+  </a>
 </p>
 
 ## Follow Me
