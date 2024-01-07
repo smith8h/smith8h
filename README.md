@@ -19,7 +19,7 @@
 ## My Skills:
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,mysql,sqlite&perline=12"  alt="My Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,react,js,python,mysql,sqlite&perline=12"  alt="My Languages"/>
 </p>
 
 ### IDEs and Tools
@@ -29,7 +29,7 @@
 
 ### Other Skills
 <p>
-<img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,githubactions,html&perline=12"  alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,githubactions,html,css&perline=12"  alt="My Skills"/>
 </p>
 
 ## Follow Me
