@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150133.png" style="width: 35%;" alt="My Logo"/>
+  <img src="https://raw.githubusercontent.com/smith8h/smith8h/main/20221103_150133.png" style="width: 30%;" alt="My Logo"/>
 </p>
 
 ### Welcome to Hussein Shakir (Smith)'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## About Me:
-- 💻 I'm a Mobile App Developer working as a freelance wizard.
-- 💬 Ask me about my experience with Kotlin, Java, Dart, Flutter or Android development.
+- 💻 I'm a **Mobile App** and **Front-End** Developer working as a *freelance wizard*.
+- 💬 Ask me about my experience with `Kotlin, Java, Dart, Flutter, React` or **Mobile & Web development**.
 - ⚡ I can work on your project or create your dream project easily.
 - ❤️ I do Coding for a hobby, I just ❤️ programming.<br/>
 
@@ -20,14 +20,14 @@
 ### Programming Languages
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,react,js,python,mysql,sqlite&perline=8"  alt="My Languages"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,js,python,mysql,sqlite&perline=8"  alt="My Languages"/>
   </a>
 </p>
 
-### IDEs and Tools
+### IDEs, Tools and Frameworks
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,vscode,idea,gradle,github,ai,replit,stackoverflow&perline=8"  alt="My IDE's and Tools"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,flutter,react,nodejs,gradle,github,ai,replit,stackoverflow&perline=8"  alt="My IDE's and Tools"/>
   </a>
 </p>
 
