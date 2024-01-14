@@ -10,7 +10,7 @@
 - ⚡ I can work on your project or create your dream project easily.
 - ❤️ I do Coding for a hobby, I just ❤️ programming.<br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/smith8h)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 ## Organizations
 - [PureTik Team](https://github.com/PureTik)
