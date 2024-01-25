@@ -27,7 +27,7 @@
 ### IDEs, Tools and Frameworks
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,flutter,react,nodejs,gradle,github,ai,replit,stackoverflow&perline=8"  alt="My IDE's and Tools"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,flutter,react,tailwind,nodejs,gradle,github,ai,netlify,replit,stackoverflow&perline=8"  alt="My IDE's and Tools"/>
   </a>
 </p>
 
