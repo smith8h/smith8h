@@ -6,7 +6,7 @@
 
 ## About Me:
 - 💻 I'm a **Mobile App** and **Front-End** Developer working as a *freelance wizard*.
-- 💬 Ask me about my experience with `Kotlin, Java, Dart, Flutter, React` or **Mobile & Web development**.
+- 💬 Ask me about my experience with `Kotlin, Java, Dart (Flutter), JavaScript (React)` or **Mobile & Web development**.
 - ⚡ I can work on your project or create your dream project easily.
 - ❤️ I do Coding for a hobby, I just ❤️ programming.<br/>
 
