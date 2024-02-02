@@ -6,15 +6,15 @@
 
 ## About Me:
 - 💻 I'm a **Mobile App** and **Front-End** Developer working as a *freelance wizard*.
-- 💬 Ask me about my experience with `Kotlin, Java, Dart (Flutter), JavaScript (React)` or **Mobile & Web development**.
+- 💬 Ask me about my experience with `Java & Kotlin (Native Android), Dart (Flutter), JavaScript (React)` or **Mobile & Web development**.
 - ⚡ I can work on your project or create your dream project easily.
 - ❤️ I do Coding for a hobby, I just ❤️ programming.<br/>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 ## Organizations
-- [PureTik Team](https://github.com/PureTik)
-- [Dote Pro Team](https://github.com/Dote-Team)
+ [![Dote Pro Team](https://avatars.githubusercontent.com/u/128261423?s=200&v=4)](https://github.com/Dote-Team) 
+ [![PureTik Team](https://avatars.githubusercontent.com/u/136125367?s=200&v=4)](https://github.com/PureTik)
 
 ## My Skills:
 ### Programming Languages
