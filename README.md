@@ -12,31 +12,31 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-## Organizations
- [![Dote Pro Team](https://avatars.githubusercontent.com/u/128261423?s=200&v=4)](https://github.com/Dote-Team) 
- [![PureTik Team](https://avatars.githubusercontent.com/u/136125367?s=200&v=4)](https://github.com/PureTik)
-
 ## My Skills:
 ### Programming Languages
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,js,python,mysql,sqlite&perline=8"  alt="My Languages"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,cs,js,python,mysql,sqlite&perline=8"  alt="My Languages"/>
   </a>
 </p>
 
 ### IDEs, Tools and Frameworks
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,flutter,react,tailwind,nodejs,gradle,github,ai,netlify,replit,stackoverflow&perline=8"  alt="My IDE's and Tools"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,vscode,flutter,dotnet,react,nodejs,npm,git,visualstudio,idea,pycharm&perline=8"  alt="My IDE's and Tools"/>
   </a>
 </p>
 
 ### Other Skills
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,githubactions,html,css&perline=8"  alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=github,firebase,materialui,githubactions,html,css,tailwind,flask,postman,ai,bots,regex,md,replit,stackoverflow,netlify&perline=8"  alt="My Skills"/>
   </a>
 </p>
+
+## Organizations
+ [![Dote Pro Team](https://avatars.githubusercontent.com/u/128261423?s=200&v=4)](https://github.com/Dote-Team) 
+ [![PureTik Team](https://avatars.githubusercontent.com/u/136125367?s=200&v=4)](https://github.com/PureTik)
 
 ## Follow Me
 <p>
