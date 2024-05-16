@@ -16,21 +16,21 @@
 ### Programming Languages
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,cs,js,python,mysql,sqlite&perline=8"  alt="My Languages"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,cs,js,python,mysql,sqlite&perline=12"  alt="My Languages"/>
   </a>
 </p>
 
 ### IDEs, Tools and Frameworks
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,vscode,flutter,dotnet,react,nodejs,npm,git,visualstudio,idea,pycharm&perline=8"  alt="My IDE's and Tools"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,vscode,flutter,dotnet,react,nodejs,npm,git,visualstudio,idea,pycharm&perline=12"  alt="My IDE's and Tools"/>
   </a>
 </p>
 
 ### Other Skills
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=github,firebase,materialui,githubactions,html,css,tailwind,flask,postman,ai,bots,regex,md,replit,stackoverflow,netlify&perline=8"  alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=github,firebase,materialui,githubactions,html,css,tailwind,flask,postman,ai,bots,regex,md,replit,stackoverflow,netlify&perline=12"  alt="My Skills"/>
   </a>
 </p>
 
