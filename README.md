@@ -5,8 +5,8 @@
 ### Welcome to Hussein Shakir (Smith)'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## About Me:
-- 💻 I'm a **Mobile App** and **Front-End** Developer working as a *freelance wizard*.
-- 💬 Ask me about my experience with `Java & Kotlin (Native Android), Dart (Flutter), JavaScript (React)` or **Mobile & Web development**.
+- 💻 I'm a **Native (Java & Kotlin) Mobile App** and **Flutter (Dart) Mobile App** and **Web Front-End (React.JS)** and **Back-End (Asp.Net)** Developer working as a *freelance wizard*.
+- 💬 Ask me about my experience with `Java & Kotlin (Native Android), Dart (Flutter), JavaScript (React) and C# (Asp.Net)` or **Mobile & Web & Back development**.
 - ⚡ I can work on your project or create your dream project easily.
 - ❤️ I do Coding for a hobby, I just ❤️ programming.<br/>
 
@@ -36,7 +36,6 @@
 
 ## Organizations
  [![Dote Pro Team](https://avatars.githubusercontent.com/u/128261423?s=200&v=4)](https://github.com/Dote-Team) 
- [![PureTik Team](https://avatars.githubusercontent.com/u/136125367?s=200&v=4)](https://github.com/PureTik)
 
 ## Follow Me
 <p>
