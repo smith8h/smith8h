@@ -12,6 +12,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
+[![Check out smith8h's profile on stardev.io](https://stardev.io/developers/smith8h/badge/languages/global.svg)](https://stardev.io/developers/smith8h)
+
 ## My Skills:
 ### Programming Languages
 <p>
