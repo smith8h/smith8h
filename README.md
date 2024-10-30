@@ -10,9 +10,9 @@
 - ⚡ I can work on your project or create your dream project easily.
 - ❤️ I do Coding for a hobby, I just ❤️ programming.<br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=smith8h&data=followers,repositories,stars&theme=nautilus)](https://github.com/Jurredr/github-widgetbox) -->
 
-[![Check out smith8h's profile on stardev.io](https://stardev.io/developers/smith8h/badge/languages/global.svg)](https://stardev.io/developers/smith8h)
+<!-- [![Check out smith8h's profile on stardev.io](https://stardev.io/developers/smith8h/badge/languages/global.svg)](https://stardev.io/developers/smith8h) -->
 
 ## My Skills:
 ### Programming Languages
@@ -54,15 +54,19 @@
 <br/>
 
 ## Profile
-<img src="https://myreadme.vercel.app/api/embed/smith8h?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My Stats" />
+<!-- <img src="https://myreadme.vercel.app/api/embed/smith8h?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My Stats" /> -->
 
-[![Smith's github trophy](https://github-profile-trophy.vercel.app/?username=smith8h&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=smith8h&amp;row=3">
+</a>
 
-[![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=smith8h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smith8h&amp;layout=compact">
+</a>
 
-### Profile Views
+<!-- ### Profile Views
   <img src="https://profile-counter.glitch.me/smith8h/count.svg"  alt="My Profile Views"/>
-<br/>
+<br/> -->
 
 ## Donations :heart:
 > **These projects need you!** If you would like to support projects' further development, the creator of all these projects or the continuous maintenance of projects **feel free to donate**. Your donation is highly appreciated. Thank you!
@@ -70,6 +74,7 @@
 
 You can **choose what you want to donate**, all donations are awesome!</br>
 <br/>
+
 [<img src="https://raw.githubusercontent.com/smith8h/smith8h/7e74b5cf5502aef174981d7f6d02a448ff2b0965/PayPal.svg"
       alt='Donate with PayPal'
       height="80"/>](https://www.paypal.me/husseinshakir)
