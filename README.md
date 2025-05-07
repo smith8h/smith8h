@@ -36,6 +36,26 @@
   </a>
 </p>
 
+<br/>
+<!-- cv download -->
+<a href="HusseinShakir_Resume.pdf" download="HusseinShakir_Resume.pdf" style="text-decoration: none;">
+  <button style="
+    background-color: #6a87e3;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#5c76cc'" onmouseout="this.style.backgroundColor='#6a87e3'">
+    📄 Download My CV
+  </button>
+</a>
+<br/>
+
 ## Organizations
  [![Dote Pro Team](https://avatars.githubusercontent.com/u/128261423?s=200&v=4)](https://github.com/Dote-Team) 
 
